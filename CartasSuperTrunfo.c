@@ -89,7 +89,7 @@ scanf("%i" , &pontos2);
 
 
 //Incluindo tela para, adicionar comandos para visualizar 
-
+// Visualização da carta 2
 printf(" ====== Carta cadastrada 2 =====  \n ");
 
 
